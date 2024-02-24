@@ -116,7 +116,7 @@ We can restock the stickers as well.
 ![image](https://github.com/NiharikaAdari/Online-Enterprise-Management-System/assets/130190699/93254ce7-7630-43a0-8e42-a1189b708b36)
 
 
-# admin order history:
+# Admin order history:
 Here, the admin can see the order history of all users! We cannot delete orders however, as it is important to keep a log of all of them. We can however change the order status from created to delivered, shipped, and cancelled.
 Marking an order as delivered/shipped will update the timestamp. However, if we cancel an order, the stock updates in the inventory!
 
